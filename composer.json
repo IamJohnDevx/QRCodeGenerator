@@ -1,0 +1,21 @@
+{
+    "name": "iamjohndev/qrcode-generator",
+    "description": "QRCode Generator Library",
+    "type": "library",
+    "require": {
+        "php": "^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "iamjohndev\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "John Lester Legaspi",
+            "email": "me@iamjohn.dev",
+            "homepage": "https://iamjohn.dev"
+        }
+    ]
+}
