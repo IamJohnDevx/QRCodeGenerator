@@ -17,5 +17,7 @@
             "email": "me@iamjohn.dev",
             "homepage": "https://iamjohn.dev"
         }
-    ]
+    ],
+    "minimum-stability": "stable",
+    "prefer-stable": true
 }
